@@ -19,19 +19,19 @@ The Shell History Ignore Plugin is a versatile tool designed to manage command h
 
 For Bash:
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/shell-history-ignore/main/shell_history_ignore.sh | bash && source ~/.bashrc
+curl -sSL https://raw.githubusercontent.com/MohamedElashri/shell-history-ignore/main/shell_history_ignore.sh | bash && source ~/.bashrc
 ```
 
 For Zsh:
 ```zsh
-curl -sSL https://raw.githubusercontent.com/yourusername/shell-history-ignore/main/shell_history_ignore.sh | zsh && source ~/.zshrc
+curl -sSL https://raw.githubusercontent.com/MohamedElashri/shell-history-ignore/main/shell_history_ignore.sh | zsh && source ~/.zshrc
 ```
 
 ### Manual Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/shell-history-ignore.git
+   git clone https://github.com/MohamedElashri/shell-history-ignore.git
    ```
 2. Navigate to the cloned directory:
    ```

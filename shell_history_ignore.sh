@@ -44,7 +44,7 @@ DEFAULT_IGNORE_COMMANDS=(
     # Compression
     "tar" "gzip" "gunzip" "zip" "unzip"
     # Disk usage
-    "df" "du"
+    "df" "du" "dust"
     # Text processing
     "grep" "sed" "awk" "cut" "sort" "uniq" "wc"
     # macOS specific

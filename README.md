@@ -4,15 +4,6 @@
 
 The Shell History Ignore Plugin is a versatile tool designed to manage command history in Bash and Zsh shells. It provides a mechanism to exclude specific commands from being recorded in your shell's history, helping to maintain a cleaner and more relevant command history.
 
-## Features
-
-- Compatible with both Bash and Zsh shells
-- Configurable list of commands to ignore
-- Ignores commands regardless of their arguments
-- Persistent configuration across sessions
-- Easy-to-use functions for adding or removing ignored commands
-- Automatic integration with shell startup files
-
 ## Installation
 
 ### One-line Installation
